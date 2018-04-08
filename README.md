@@ -1,7 +1,7 @@
 # DependencyViewer
 View Dependencies and Order of Execution for Inter-dependent tasks
 
-
+This is an implementation of Topological Sort in a Directed Acyclic Graph.
 
 Run App.java 
 
